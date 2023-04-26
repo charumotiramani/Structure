@@ -1,8 +1,6 @@
 # Structure
 
-A structure is a keyword that creates user-defined data types in C/C++.   
-A structure creates a data type that can be used to group items of possibly different types into a single type. 
-We can use this data type to store data of different attributes of different data types.  
+A structure is a keyword that creates user-defined data types in C/C++.A structure creates a data type that can be used to group items of possibly different types into a single type.We can use this data type to store data of different attributes of different data types.  
 
 
 **‘struct’ keyword is used to create a structure.**  
